@@ -1,0 +1,14 @@
+.brand{
+    color:rgb(193, 16, 16)
+}
+:root {
+    --primary: #e53935;
+  }
+
+footer{ 
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
